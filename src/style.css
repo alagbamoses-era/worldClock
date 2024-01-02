@@ -7,3 +7,29 @@
     border-radius: 15px;
     
 }
+
+h1 {
+    text-align:  center;
+}
+select {
+    display: block;
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+footer {
+    text-align: center;
+    margin: 10px 8px;
+}
+
+.city {
+    display: flex;
+    justify-content: space-between;
+    margin: 15px 0;
+}
+
+.city:last-child {
+    border: none;
+}
